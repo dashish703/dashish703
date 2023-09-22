@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dev Verma!
-- 👀 I’m interested in Software Developer.
+- 👀 I’m a Software Developer.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Software Development.
 - 📫 How to reach me, Mail at dashish703@gmail.com
