@@ -18,7 +18,7 @@ I am not just a coder; I am a connoisseur of the beautiful and the innovative. W
 
 I believe in the beauty of collaboration. If you share my passion for Python, art, and the thrill of discovery, I invite you to explore this repository and join me on this exciting journey. Let's connect, share ideas, and create something truly extraordinary.
 
-Feel free to reach out to me via [email@example.com] or connect on [LinkedIn](https://www.linkedin.com/in/yourname).
+Feel free to reach out to me via dashish703@gmail.com or connect on www.linkedin.com/in/dev-ashish-v-866522133 !
 
 May elegance and curiosity guide our endeavors!
 
